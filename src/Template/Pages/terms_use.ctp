@@ -1,0 +1,1 @@
+<h3 class="text-center">Terms of Use</h3>

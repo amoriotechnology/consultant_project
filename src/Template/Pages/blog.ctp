@@ -1,0 +1,1 @@
+<h3 class="text-center">Blog Page</h3>
